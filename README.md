@@ -8,7 +8,6 @@ CineHub is a movie website developed as a web development project. It combines a
 * **CSS3** — Styling and layout
 * **JavaScript** — Client-side interactivity
 * **PHP** — Backend development
-* **MySQL** — Database (if used in the project)
 * **XAMPP** — Local development environment
 
 ## Features
